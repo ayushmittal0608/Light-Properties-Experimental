@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@progress/kendo-react-inputs": "^15.0.0"
+  }
+}
